@@ -1,0 +1,61 @@
+from turtle import *
+
+color("green")
+width(7)
+forward(200)
+left(90)
+color("green")
+width(7)
+forward(200)
+left(90)
+color("green")
+width(7)
+forward(200)
+left(90)
+color("green")
+width(7)
+forward(200)
+left(90)
+#house cube
+
+
+
+
+forward(80)
+color("brown")
+begin_fill()
+left(90)
+forward(70)
+right(90)        #door
+forward(60)
+right(90)
+forward(70)
+end_fill()
+
+penup()
+color("grey")
+goto(200, 200)
+pendown()
+begin_fill()
+right(150)
+forward(200)
+left(120)
+forward(200)
+end_fill()
+
+penup()
+color("blue")
+goto(70, 150)
+pendown()
+begin_fill()
+right(60)
+forward(50)
+left(90)
+forward(50)
+left(90)
+forward(50)
+left(90)
+forward(50)
+end_fill()
+
+exitonclick()
