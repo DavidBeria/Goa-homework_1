@@ -1,0 +1,56 @@
+.googleplay{right: 350px;
+display: flex;
+height: 50px;
+width: 200px;
+border-style: groove;
+border-color: yellow;}
+    
+.applestore{right: 350px;
+display: flex;
+height: 150px;
+width: 200px;
+}
+    
+.game1{width: 200px;
+height: 100px;
+display: inline;
+border-style: dotted;
+border-color: blue;}
+    
+.game1t{height: 50px;
+width: 50px;
+display: inline;
+ color: violet;}
+    
+ .game2{display: inline;
+width: 200px;
+height: 100px;
+border-style: dashed;
+border-color: red;}
+    
+.game2t{display: inline;
+color: chartreuse;}
+    
+.game3{display: inline;
+height: 100px;
+width: 200px;
+border-style: solid;
+border-color: green;}
+    
+.game3t{display:inline;
+color: brown;}
+
+.home{text-align:center;
+list-style: none;}
+
+.contacts{text-align:center;
+list-style: none;}
+
+.about{text-align:center;
+list-style: none;}
+
+h1{color: gray;}
+
+p{color: gray;}
+
+li{list-style: none;}

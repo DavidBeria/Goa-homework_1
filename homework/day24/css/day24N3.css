@@ -1,0 +1,13 @@
+li{
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: darkred;
+}
+
+p{
+    font-style: oblique;
+}
+
+a{
+    text-decoration: none;
+}
