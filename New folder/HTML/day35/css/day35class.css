@@ -6,7 +6,7 @@ div{
     transition-property: background-color, border-radius, transform;
     transition-duration: 0.5s, 3s;
     transition-timing-function: ease-in;
-    transition-delay: ;
+    /* transition-delay: ; */
 }
 
 
