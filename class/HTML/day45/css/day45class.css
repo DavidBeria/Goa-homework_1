@@ -1,0 +1,37 @@
+*{
+    border: 1px solid white;
+    color: white;
+    background-color: blue;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-areas: "hed hed hed"
+    "nav con side"
+    "nav foot foot";
+
+
+    grid-template-columns:  150px 3fr 150px;
+    grid-template-rows: 100px 2fr 100px;
+}
+
+.hed{
+    grid-area: hed;
+}
+
+.nav{
+    grid-area: nav;
+}
+
+.con{
+    grid-area: con;
+}
+
+.side{
+    grid-area: side;
+}
+
+.foot{
+    grid-area: foot;
+}
