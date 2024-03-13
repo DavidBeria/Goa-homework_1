@@ -11,6 +11,7 @@
     grid-area: header;
     margin-left: 500px;
     background-color: white;
+    border-radius: 2px;
 
 }
 
@@ -18,12 +19,14 @@
     grid-area: sub;
     margin-left: 400px;
     background-color: teal;
+    border-radius: 2px;
 }
 
 .info{
     grid-area: info;
     margin-right: 300px;
     background-color: rgb(1, 137, 137);
+    border-radius: 2px;
 }
 
 button{
