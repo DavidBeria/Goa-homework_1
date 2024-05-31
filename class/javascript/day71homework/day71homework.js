@@ -19,6 +19,6 @@ minus.addEventListener('click', () =>{
 })
 
 reset.addEventListener('click', () =>{
-    let numberJs = 0
+    numberJs = 0
     numberdis()
 })
